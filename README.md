@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi  👋
 
+
+I can be found at the following places:
+[LinkedIn](https://www.linkedin.com/in/haziqahnasser/)
 <!--
 **terqahpy/terqahpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
