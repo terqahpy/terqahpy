@@ -1,8 +1,14 @@
-### Hi  👋
+### Hey there, I'm Haziqah.
 
+- :earth_asia: I'm passionate about all things geospatial.
+- :computer: Currently, I am working to level up my GIS programming skills. 
+- :snake: My go to programming language is Python (mainly because it's the one I'm most familiar with :sweat_smile:) I know a little bit of R, and I hope to expand my skillset to include Javascript!
 
-I can be found at the following places:
-[LinkedIn](https://www.linkedin.com/in/haziqahnasser/)
+### I can be found at the following places:
+
+- [LinkedIn](https://www.linkedin.com/in/haziqahnasser/)
+- [Instagram](https://www.instagram.com/terqahpy/)
+
 <!--
 **terqahpy/terqahpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
